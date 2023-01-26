@@ -21,7 +21,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/faq-accordion-card-TH5bkVa-Zr)
 - Live Site URL: [Live Site at Vercel](https://faq-accordion-card-beta-five.vercel.app/)
 ## My process
 
@@ -42,5 +41,5 @@ In this challenge I learned how to build an accordion and use the Javascript to 
 
 ## Author
 
-- Github - [correlucas](https://github.com/correlucas/)
-- Frontend Mentor - [@correlucas](https://www.frontendmentor.io/profile/correlucas)
+- Github - [101Amine](https://github.com/101Amine/FAQ-accordion-card/)
+- Frontend Mentor - [@101Amine](https://www.frontendmentor.io/profile/101Amine)
